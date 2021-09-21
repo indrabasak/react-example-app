@@ -1,16 +1,16 @@
-# Getting Started with Create React App
+# Tic-Tac-Toe Application with React JS
 
-This is the example tic-tac-toe game with React.
+This is an example tic-tac-toe game with React.
 
 ## To Run
 
-In the project directory, you can run:
+To run the project in the development, execute the following command from
+ the project directory:
 
-### `npm start`
+```
+npm start
+```
+This should start the application in port `3000`. To view it in the browser,
+open [http://localhost:3000](http://localhost:3000).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
